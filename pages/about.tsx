@@ -42,7 +42,7 @@ export default function About() {
             and crew for your project after registering with us.
           </p>
           <p>
-            Also, don't forget to share this with others who deserve an
+            Also, don&apos;t forget to share this with others who deserve an
             opportunity. Note that our mobile app would be live soon where you
             can organise your film projects easily.
           </p>
