@@ -34,7 +34,7 @@ export default function About() {
             actors and technicians. We are trying to make a community where film
             lovers can connect each other and plan their next projects easily.
             This is the first step of our process and you are lucky to find this
-            email.
+            website.
           </p>
           <p>
             Fill out the registration form with your details and you are ready
